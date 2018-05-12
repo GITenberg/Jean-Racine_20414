@@ -1,0 +1,32 @@
+_repo: Jean-Racine_20414
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lemaître, Jules
+    alias: Lemaitre, Jules
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '5505'
+    url: http://www.gutenberg.org/2009/agents/5505
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Lemaitre
+    - http://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20414'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Racine, Jean, 1639-1699'
+- !lcsh 'Dramatists, French -- 17th century -- Biography'
+- !lcc 'PQ'
+title: Jean Racine
+url: http://www.gutenberg.org/ebooks/20414
