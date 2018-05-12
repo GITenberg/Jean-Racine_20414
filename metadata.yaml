@@ -15,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Lemaitre
     - http://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20414#Jean-Racine
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2007-01-22'
 gutenberg_type: Text
